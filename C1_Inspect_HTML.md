@@ -2,7 +2,7 @@
 
 ### 1. Challenge: Inspect HTML (Easy)
 
-*	The challenge request the analysis of HTML code.
+*	The challenge requests the analysis of HTML code.
 
 ![R2_C1_1](https://user-images.githubusercontent.com/124681007/217734530-bb70a6c4-8526-4aae-88f5-975b98060abf.png)
 
